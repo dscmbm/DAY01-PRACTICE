@@ -108,5 +108,14 @@ const questions = [
       { text: '6', correct: false },
       { text: '8', correct: true }
     ]
-  }
+  },
+  {
+    question: 'Google Community group in college',
+    answers: [
+      { text: 'Khelo mbm', correct: false },
+      { text: 'GDSC', correct: true },
+      { text: 'ESE', correct: false },
+      { text: 'IDK', correct: false }
+    ]
+  },
 ]
