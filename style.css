@@ -19,6 +19,9 @@
     justify-content: center;
     align-items: center;
     background-color: hsl(var(--hue), 100%, 20%);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
   }
   
   body.correct {
