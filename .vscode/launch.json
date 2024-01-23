@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "chrome index.html",
-            "file": "/home/anonymouspirate/Documents/gsoc/DAY01-PRACTICE/index.html"
+            "file": "/home/Shiv/Documents/gsoc/DAY01-PRACTICE/index.html"
         }
     ]
 }
