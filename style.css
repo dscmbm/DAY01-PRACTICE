@@ -18,7 +18,8 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: hsl(var(--hue), 100%, 20%);
+    background-color: #748E63;
+    /*background-color: hsl(var(--hue), 100%, 20%);*/
   }
   
   body.correct {
