@@ -108,5 +108,13 @@ const questions = [
       { text: '6', correct: false },
       { text: '8', correct: true }
     ]
+  },
+  {
+    question: 'What is 8*8?',
+    answers: [
+      { text: '64', correct: true },
+      { text: '46', correct: false },
+      {text: '88',correct:false}
+    ]
   }
 ]
