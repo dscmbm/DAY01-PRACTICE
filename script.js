@@ -109,4 +109,11 @@ const questions = [
       { text: '8', correct: true }
     ]
   }
+  {
+    question: "What is 8*2?"
+    answers: [
+      {text: '16', correct: true},
+      {text: '10', correct: false}
+    ]
+  }
 ]
