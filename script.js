@@ -108,5 +108,6 @@ const questions = [
       { text: '6', correct: false },
       { text: '8', correct: true }
     ]
+    
   }
 ]
