@@ -5,9 +5,9 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "firefox",
             "request": "launch",
-            "name": "chrome index.html",
+            "name": "firefox index.html",
             "file": "/home/Shiv/Documents/gsoc/DAY01-PRACTICE/index.html"
         }
     ]
